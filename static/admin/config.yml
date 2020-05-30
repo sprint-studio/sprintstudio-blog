@@ -1,5 +1,6 @@
 backend:
-  name: thekage91
+  name: github
+  repo: sprint-studio/sprintstudio-blog
 
 media_folder: static/assets
 public_folder: assets
