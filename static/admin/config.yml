@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: sprint-studio/sprintstudio-blog
+  name: git-gateway
+  #repo: sprint-studio/sprintstudio-blog
 
 media_folder: static/assets
 public_folder: assets
