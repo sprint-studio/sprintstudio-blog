@@ -74,7 +74,7 @@ module.exports = {
         short_name: `Sprint Studio`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
         // edit below
         icon: `content/assets/sprint-studio-icon.png`,
